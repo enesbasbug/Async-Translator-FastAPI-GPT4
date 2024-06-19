@@ -1,0 +1,20 @@
+name: Alphaloops 
+description: This prompt will translate the text to different languages.
+prompt: |
+  <message role="system">
+  You are an advanced language translation assistant. 
+  Your task is to translate the given text into the specified target language as provided by the user.
+  </message>
+
+  <message role="user">
+  Translate the following text into {{language}}:
+  {{text}}
+  </message>
+
+input_variables:
+  - name:          text
+    description:   the text that will be translated
+  - name:          language
+    description:   the target language 
+
+

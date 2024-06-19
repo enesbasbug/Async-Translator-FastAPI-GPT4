@@ -39,7 +39,7 @@ This is a FastAPI-based application for translating text into multiple languages
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/enesbasbug/FastAPI-Async-Translator
+   git clone https://github.com/enesbasbug/Async-Translator-FastAPI-GPT4
    cd Async-Translator-FastAPI-GPT4
    ```
 

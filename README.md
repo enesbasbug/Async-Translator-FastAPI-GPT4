@@ -40,7 +40,7 @@ This is a FastAPI-based application for translating text into multiple languages
 
    ```bash
    git clone https://github.com/enesbasbug/FastAPI-Async-Translator
-   cd FastAPI-Async-Translator
+   cd Async-Translator-FastAPI-GPT4
    ```
 
 2. **Environment Variables:**
